@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=ashallrounder.repl.co&style=for-the-badge&url=https://ashallrounder.repl.co)](https://ashallrounder.repl.co)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD313aBTrexHU9JrkqypCsA?label=YouTube&style=for-the-badge&url=https://youtube.com/channel/UCD313aBTrexHU9JrkqypCsA)](https://youtube.com/channel/UCD313aBTrexHU9JrkqypCsA)
 
-## I'm a Youtuber & Devloper!!
+## I'm a Youtuber & Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I Can Solve A 3x3 Rubiks In 30 Seconds
