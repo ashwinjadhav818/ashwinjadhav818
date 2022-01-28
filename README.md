@@ -3,10 +3,10 @@
 
 <p><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20passionate%20full-stack%20web%20developer.&title=Ashwin%20Jadhav" alt="Ashwin Jadhav, A passionate full-stack web developer" /><p/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinjadhav818&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinjadhav818" /> </p>
+<p align="left"> <img src="https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=ashwinjadhav818" alt="ashwinjadhav818" /> </p>
 
 <div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <div>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinjadhav818" alt="ashwinjadhav818" /></a></p>
     <a href="https://app.daily.dev/ashwinjadhav"><img src="https://api.daily.dev/devcards/6b041b86297a41d38e0f955f00a2a748.png?r=m7q" width="400" alt="Ashwin Jadhav's Dev Card"/></a>
   </div>
