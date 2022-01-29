@@ -1,5 +1,4 @@
 <p><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b&text=Hi%252C%2520I%27m%2520Ashwin%2520Jadhav" alt="Hi, I'm Ashwin Jadhav" /><p/>
-<h3 align="center">A passionate full-stack web developer.</h3>
 
 <p><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20passionate%20full-stack%20web%20developer.&title=Ashwin%20Jadhav" alt="Ashwin Jadhav, A passionate full-stack web developer" /><p/>
 
@@ -7,7 +6,6 @@
 
 <div align="center">
   <div>
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinjadhav818" alt="ashwinjadhav818" /></a></p>
     <a href="https://app.daily.dev/ashwinjadhav"><img src="https://api.daily.dev/devcards/6b041b86297a41d38e0f955f00a2a748.png?r=m7q" width="400" alt="Ashwin Jadhav's Dev Card"/></a>
   </div>
 </div>
@@ -26,6 +24,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Java_NodeJS_MongoDB_ReactJS_Express_Next.js_Bootstrap_TailwindCSS_Electron_Pug_Figma_Linux" alt="JavaScript_HTML_CSS_Java_NodeJS_MongoDB_ReactJS_Express_Next.js_Bootstrap_TailwindCSS_Electron_Pug_Figma_Linux" /></p>
 
+<h3 align="left">Github Status:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinjadhav818" alt="ashwinjadhav818" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinjadhav818&show_icons=true&locale=en&layout=compact" alt="ashwinjadhav818" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinjadhav818&show_icons=true&locale=en" alt="ashwinjadhav818" /></p>
