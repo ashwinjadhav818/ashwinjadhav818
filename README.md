@@ -30,6 +30,8 @@
 
 <h3 align="left">Blogs posts:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [HTML Cheatsheet](https://ashwinjadhav.hashnode.dev/html-cheatsheet)
+- [Exa on Ubuntu 20.04](https://ashwinjadhav.hashnode.dev/exa-on-ubuntu-2004)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
