@@ -10,7 +10,13 @@
   </div>
 </div>
 
+- 🔭 I’m currently working on [Work Todo](https://github.com/ashwinjadhav818/work-todo)
+
 - 🌱 I’m currently learning **Next.js & Java**
+
+- 🤝 I’m looking for help with **React Native**
+
+- 📝 I regularly write articles on [https://ashwinjadhav.hashnode.dev](https://ashwinjadhav.hashnode.dev)
 
 - 💬 Ask me about **React.js, Next.js, Node.js, MongoDB & Visual Studio Code**
 
@@ -18,8 +24,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ashall-rounder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashall-rounder" height="30" width="40" /></a>
+<a href="https://codepen.io/ashwinjadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashwinjadhav" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ashwinjadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ashwinjadhav" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Blogs posts:</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Java_NodeJS_MongoDB_ReactJS_Express_Next.js_Bootstrap_TailwindCSS_Electron_Pug_Figma_Linux" alt="JavaScript_HTML_CSS_Java_NodeJS_MongoDB_ReactJS_Express_Next.js_Bootstrap_TailwindCSS_Electron_Pug_Figma_Linux" /></p>
