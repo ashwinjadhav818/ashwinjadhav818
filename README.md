@@ -37,4 +37,4 @@
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinjadhav818&" alt="ashwinjadhav818" /></p>
 
-<a href="https://app.daily.dev/ashwinjadhav"><img src="https://api.daily.dev/devcards/6b041b86297a41d38e0f955f00a2a748.png?r=9tm" width="400" alt="Ashwin Jadhav's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ashwinjadhav818/ashwinjadhav818/blob/master/devcard.svg" width="400" alt="Ashwin Jadhav's Dev Card"/></a>
