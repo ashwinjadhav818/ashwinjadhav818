@@ -5,7 +5,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinjadhav818" alt="ashwinjadhav818" /></a> </p>  
   
-- 🔭 I’m currently working on **Work Todo**  
+- 🔭 I’m currently working on [Aura theme](https://github.com/ashwinjadhav818/obsidian-aura)
   
 - 🌱 I’m currently learning **Java and Next.js**  
   
