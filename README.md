@@ -9,7 +9,7 @@ I am a full-stack web developer since 2020. I love to make websites and to keep 
 *   🌍  I'm based in India
 *   🚀  I'm currently working on [Aura - An minimilastic Obsidian theme](http://github.com/ashwinjadhav818/obsidian-aura)
 *   🧠  I'm learning Everything JavaScript
-*   ⚡  I can solve an Rubiks Cube under 30 seconds!
+*   ⚡  I can solve a Rubiks Cube under 30 seconds!
 
 ### Skills 
 <p align="left">
