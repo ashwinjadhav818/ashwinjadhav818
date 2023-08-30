@@ -7,7 +7,7 @@ Developer. Student
 I am a full-stack web developer since 2020. I love to make websites and to keep learning and experimenting with new technologies.
 
 *   🌍  I'm based in India
-*   🚀  I'm currently working on [Wolf - An minimilastic Obsidian theme](http://github.com/Lunar-Wolf/obsidian-wolf)
+*   🚀  I'm currently working on [Aura - An minimilastic Obsidian theme](http://github.com/ashwinjadhav818/obsidian-aura)
 *   🧠  I'm learning Everything JavaScript
 *   ⚡  I can solve a Rubiks Cube under 30 seconds!
 
