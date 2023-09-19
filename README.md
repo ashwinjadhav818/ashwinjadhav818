@@ -35,5 +35,3 @@ I am a full-stack web developer since 2020. I love to make websites and to keep 
 ### Badges
 <a href="http://www.github.com/ashwinjadhav818"><img src="https://github-readme-stats.vercel.app/api?username=ashwinjadhav818&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ashwinjadhav818's GitHub stats" /></a>
 <a href="http://www.github.com/ashwinjadhav818"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinjadhav818&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ashwinjadhav818/ashwinjadhav818/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
