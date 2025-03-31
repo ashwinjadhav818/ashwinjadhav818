@@ -7,8 +7,8 @@ Developer. Student
 I am a full-stack web developer since 2020. I love to make websites and to keep learning and experimenting with new technologies.
 
 *   🌍  I'm based in India
-*   🚀  I'm currently working on [Aura - An minimilastic Obsidian theme](http://github.com/ashwinjadhav818/obsidian-aura)
-*   🧠  I'm learning Everything JavaScript
+*   🚀  I'm currently working on [AutoVault - Car data organizer app](http://github.com/ashwinjadhav818/autovault)
+*   🧠  I'm learning React Native & Expo
 *   ⚡  I can solve a Rubiks Cube under 30 seconds!
 
 ### Skills 
