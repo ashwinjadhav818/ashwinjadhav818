@@ -1,4 +1,3 @@
-#+#+TITLE: README
 #+AUTHOR: Ashwin
 #+OPTIONS: toc:nil
 
@@ -10,7 +9,7 @@
 "Doing the hard things until the easy ones feel boring."
 #+END_QUOTE
 
-I'm Ashwin — I like building, tinkering, and occasionally ranting about software, knowledge, and freedom. I don’t take myself too seriously, but I take what I *create* seriously.
+Hey there — I'm someone who like building, tinkering, and occasionally ranting about software, knowledge, and freedom. I don’t take myself too seriously, but I take what I *create* seriously.
 
 I'm here to:
 - Build useful, interesting, or just plain odd tools.
