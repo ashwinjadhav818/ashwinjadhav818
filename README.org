@@ -1,0 +1,40 @@
+#+#+TITLE: README
+#+AUTHOR: Ashwin
+#+OPTIONS: toc:nil
+
+#+BEGIN_CENTER
+*Hello There 👋*
+#+END_CENTER
+
+#+BEGIN_QUOTE
+"Doing the hard things until the easy ones feel boring."
+#+END_QUOTE
+
+I'm Ashwin — I like building, tinkering, and occasionally ranting about software, knowledge, and freedom. I don’t take myself too seriously, but I take what I *create* seriously.
+
+I'm here to:
+- Build useful, interesting, or just plain odd tools.
+- Help make tech (and knowledge) a little more open and a lot more accessible.
+
+*🛠️ What I Build (and Why)*
+
+- **Everyday tools** – Things that *just work*. Command-line utilities, scripts, and automation tools to simplify life.
+- **Learning resources** – Notes, guides, and study material for curious minds (especially mine).
+- **Open knowledge** – Reformatting, translating, and archiving content that should be accessible to everyone.
+- **Linux-y things** – Configs, dotfiles, and tweaks to make Linux (and Windows, when necessary) more powerful and personal.
+
+*📌 Projects I’m proud of:*
+- [[https://github.com/ashwinjadhav818/dotfiles][dotfiles]] – My personal setup for both Linux and Windows.
+- [[https://github.com/ashwinjadhav818/AutoVault][AutoVault]] – A simple app to store and manage information about your car(s).
+- [[https://github.com/ashwinjadhav818/obsidian-aura][obsidian-aura]] – A clean, minimal, and customizable Obsidian theme.
+
+Check out my repos for more!
+
+*💭 Things I Believe:*
+- Free and Open Source Software (FOSS) matters.
+- Emacs > Vim (still figuring it out).
+- Terminal > GUI (well... most of the time).
+
+#+BEGIN_CENTER
+*Thanks for visiting. Stay curious and keep building!*
+#+END_CENTER
